@@ -1,0 +1,78 @@
+.osfoto {
+    width: 1400px;
+    position: absolute;
+    height: 805.33px;
+    background: url(img/изображение121.png);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.grad {
+    position: absolute;
+    width: 914px;
+    height: 806px;
+    left: 0;
+    top: 0;
+    background: linear-gradient(88.49deg, rgba(0, 0, 0, 0.75) -24.47%, rgba(0, 0, 0, 0.698903) 43.41%, rgba(0, 0, 0, 0.585392) 56.88%, rgba(0, 0, 0, 0) 98.71%);
+    margin-left: 285px;
+}
+.logo {
+    margin-top: 47px;
+    margin-left: 87px;
+    position: absolute;
+}
+.top_menu_links {
+    position: absolute;
+    display: flex;
+    width: 497px;
+    height: 30px;
+    margin-left: 820px;
+    margin-top: 87px;
+}
+.top_menu_links p {
+    color: aliceblue;
+}
+.t {
+    margin-right: 40px;
+}
+.vstup {
+    position: absolute;
+}
+.nazv {
+    position: absolute;
+    display: flex;
+}
+.D p {
+    color: #FFFF;
+    position: absolute;
+    width: 604px;
+    height: 79px;
+    left: 100px;
+    top: 298px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 79px;
+}
+.I p {
+    color: #ffbe22;
+    position: absolute;
+    width: 604px;
+    height: 79px;
+    left: 330px;
+    top: 298px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 79px;
+}
+.meltxt {
+    position: absolute;
+}
+.meltxt p {
+    color: #FFFF;
+    width: 503px;
+    margin-top: 403px;
+    margin-left: 100px;
+    text-align: left;
+}
