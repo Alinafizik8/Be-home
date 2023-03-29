@@ -1,3 +1,8 @@
+.cont {
+    width: 1400px;
+    height: 100%;
+    margin: 0 auto;
+}
 .osfoto {
     width: 1400px;
     position: absolute;
@@ -8,11 +13,11 @@
 .grad {
     position: absolute;
     width: 914px;
-    height: 806px;
-    left: 0;
+    height: 802px;
     top: 0;
+    left: 0;
     background: linear-gradient(88.49deg, rgba(0, 0, 0, 0.75) -24.47%, rgba(0, 0, 0, 0.698903) 43.41%, rgba(0, 0, 0, 0.585392) 56.88%, rgba(0, 0, 0, 0) 98.71%);
-    margin-left: 285px;
+    margin-left: 225px;
 }
 .logo {
     margin-top: 47px;
@@ -75,4 +80,56 @@
     margin-top: 403px;
     margin-left: 100px;
     text-align: left;
+}
+.knpk {
+    position: absolute;
+    width: 250px;
+    height: 52px;
+}
+.pytka {
+    box-sizing: border-box;
+    position: absolute;
+    width: 250px;
+    height: 52px;
+    left: 100px;
+    top: 490px;
+    border: 2px solid #F5B826;
+    border-radius: 10px;
+    background-color: transparent;
+    color: #F5B826;
+}
+.poch {
+    position: absolute;
+    margin-top: 908px;
+    margin-left: 100px;
+    display: flex;
+}
+.re8 {
+    margin-left: 445px;
+    margin-top: 15px;
+}
+.re4 {
+    margin-top: 73px;
+    margin-left: 265px;
+}
+.f1 {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 350px;
+}
+.up {
+    display: flex;
+    width: 300px;
+    margin-top: 50px;
+}
+.l {
+    position: absolute;
+}
+.r {
+    position: absolute;
+    padding-left: 510px;
+}
+.vec2 {
+    position: absolute;
+    padding-right: 50px;
 }
