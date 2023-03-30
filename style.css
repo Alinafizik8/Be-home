@@ -259,3 +259,184 @@
     top: 685px;
     margin-left: 550px;
 }
+.usl1 {
+    position: absolute;
+    margin-top: 2650px;
+    margin-left: 100px;
+    width: 1400px;
+}
+.usl {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    margin-top: 2780px;
+    margin-left: 100px;
+    width: 1400px
+}
+.l1 {
+    background: url(img/Rectangle19.png);
+    width: 365px;
+    height: 640px;
+}
+.lr {
+    background: url(img/Rectangle19.png);
+    width: 365px;
+    height: 640px;
+    margin-left: 70px;
+}
+.r1 {
+    background: url(img/Rectangle19.png);
+    width: 365px;
+    height: 640px;
+    margin-left: 70px;
+}
+.l1t {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.l1t p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    color: #F5B826;
+}
+.ul1 {
+    list-style-type: none;
+    color: #FFFF;
+}
+.dop {
+    margin-top: 30px;
+}
+.dop1 {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.dop1 p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;
+    color: #FFFFFF;
+}
+.knpk23 {
+    position: absolute;
+    width: 171px;
+    height: 48px;
+}
+.pytka3 {
+    border: 3px solid #F5B826;
+    border-radius: 10px;
+    background-color: transparent;
+    position: absolute;
+    width: 171px;
+    height: 48px;
+    color: #F5B826;
+    left: 30px;
+    top: 20px;
+}
+.otz1 {
+    display: flex;
+    position: absolute;
+    margin-top: 3520px;
+    margin-left: 100px;
+    width: 1400px;
+}
+.otz {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    margin-top: 3650px;
+    margin-left: 100px;
+    width: 1400px
+}
+.per {
+    position: absolute;
+    margin-left: 1070px;
+}
+.e30 {
+    position: absolute;
+    margin-left: 70px;
+}
+.e29 {
+    position: absolute;
+}
+.p2 {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.p3 {
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+.ott {
+    position: absolute;
+}
+.ott1 {
+    position: absolute;
+    margin-left: 650px;
+}
+.ava {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.nam p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    color: #333333;
+}
+.tlr {
+    position: absolute;
+    margin-left: 170px;
+    margin-top: 40px;
+}
+.nam {
+    position: absolute;
+}
+.zve {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+}
+.dat {
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 460px;
+}
+.dat p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 180%;
+    color: rgba(0, 0, 0, 0.5);
+}
+.podch {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 60px;
+}
+.otx {
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 190px;
+    width: 450px;
+    height: 50px;
+}
+.otx p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 180%;
+    color: #333333;
+}
