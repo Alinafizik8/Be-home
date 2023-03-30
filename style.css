@@ -181,3 +181,73 @@
     top: 685px;
     color: #FFFF;
 }
+.etaps {
+    position: absolute;
+    margin-top: 1800px;
+    margin-left: 100px;
+    display: flex;
+    width: 1400px;
+}
+.f2 {
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 50px;
+}
+.re3 {
+    margin-top: 120px;
+}
+.re42 {
+    margin-top: 65px;
+    margin-left: 80px;
+}
+.rw {
+    display: block;
+    position: absolute;
+}
+.rww {
+    display: block;
+    position: absolute;
+    margin-left: 300px;
+}
+.rww h4 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 150%;
+    text-align: center;
+    color: #F5B826;
+}
+.rww p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    color: #000000;
+}
+.rw h4 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 150%;
+    text-align: center;
+    color: #F5B826;
+}
+.rw p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 150%;
+    color: #000000;
+}
+.rig {
+    margin-top: 140px;
+    margin-left: 100px;
+}
+.hetps {
+    text-align: start;
+    width: 72px;
+}
