@@ -127,9 +127,57 @@
 }
 .r {
     position: absolute;
-    padding-left: 510px;
+    padding-left: 450px;
 }
 .vec2 {
     position: absolute;
-    padding-right: 50px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.star {
+    position: absolute;
+}
+.vec3 {
+    position: absolute;
+}
+.txt {
+    position: absolute;
+    margin-top: 110px;
+    width: 350px;
+}
+.down {
+    position: absolute;
+    display: flex;
+    margin-top: 300px;
+    width: 300px;
+}
+.E3 {
+    position: absolute;
+}
+.E2 {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.vec6 {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.knpk2 {
+    position: absolute;
+    width: 250px;
+    height: 52px;
+    left: 10px;
+    top: 685px;
+}
+.pytka2 {
+    background: #F5B826;
+    border: 2px solid #F5B826;
+    border-radius: 10px;
+    width: 250px;
+    height: 52px;
+    left: 10px;
+    top: 685px;
+    color: #FFFF;
 }
