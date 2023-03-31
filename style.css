@@ -494,3 +494,46 @@
 .re55 {
     margin-left: 250px;
 }
+.end {
+    display: flex;
+    flex-direction: row;
+    width: 1400px;
+    margin-left: 10px;
+    position: absolute;
+    margin-top: 4770px;
+    background: url(img/Rectangle56.png);
+    height: 228px;
+}
+.enp {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 300px;
+}
+.enp p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.lin {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 310px;
+}
+.ll {
+    margin-left: 80px;
+}
+.ll1 {
+    margin-left: 20px;
+}
+.enpd {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    margin-top: 70px;
+    margin-left: 1200px;
+}
